@@ -1,0 +1,5 @@
+file_name filter=lfs diff=lfs merge=lfs -text
+VSTO/ppt/OfficeContent.zip filter=lfs diff=lfs merge=lfs -text
+自定义或开源/pdf/MuPDF.zip filter=lfs diff=lfs merge=lfs -text
+4ac15cbc0fdd77e4ee73f117c3039576 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
